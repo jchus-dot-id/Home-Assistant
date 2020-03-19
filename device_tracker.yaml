@@ -1,0 +1,4 @@
+- platform: nmap_tracker
+  hosts:
+    - 10.20.30.10
+    - 10.20.30.11
